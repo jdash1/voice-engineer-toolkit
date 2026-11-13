@@ -1,0 +1,8 @@
+INVITE sip:2001@lab.invalid SIP/2.0
+Call-ID: demo@lab.invalid
+CSeq: 1 INVITE
+
+SIP/2.0 486 Busy Here
+Call-ID: demo@lab.invalid
+CSeq: 1 INVITE
+
